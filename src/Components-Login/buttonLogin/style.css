@@ -1,0 +1,14 @@
+.button-login {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: 18.125rem;
+  padding: 1.25rem;
+  background-color: #E50914;
+  border-radius: 0.25rem;
+  font-size: .9375rem;
+  height: 3.125rem;
+  font-weight: 600;
+  cursor: pointer;
+}
